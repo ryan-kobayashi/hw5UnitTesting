@@ -10,7 +10,7 @@ class TestClass:
         assert string_capitalizer("") == ""
 
     def test_string3(self):
-        assert string_capitalizer(4) == "Four"
+        assert string_capitalizer(4) == "FouR"
 
     def test_strlist1(self):
         assert capitalize_list(["two", "c", "4", ""]) == [

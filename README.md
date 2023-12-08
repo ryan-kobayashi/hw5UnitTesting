@@ -3,6 +3,20 @@
 Backend and frontend unit tests are completed using the backend and frontend code
 linked [here](https://github.com/LaughingPenguin/mymusiclist).
 
+## Problem 2
+
+To run the unit tests necessary for problem 2, you first must ensure that you have pytest installed. Do this by running, in a terminal,
+```
+pip3 install pytest
+```
+Then, still in the terminal, navigate to the `Problem-2` directory and run:
+```
+pytest unit_testing.py
+```
+Here is a screenshot of the tests that were provided in problem 1:
+
+<img width="870" alt="Screen Shot 2023-12-07 at 11 50 04 PM" src="https://github.com/ryan-kobayashi/hw5UnitTesting/assets/131481979/3ae1cf80-f201-456e-b088-262ee88cd98c">
+
 ## Problem 3
 
 There are several dependencies that are needed to run `test.php`. Install PHPUnit and Guzzle through homebrew and Composer.

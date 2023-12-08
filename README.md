@@ -55,6 +55,10 @@ that it works properly with axios.
     ```
     npm run test
     ```
+## Problem 5
+To see the continuous integration of tests using Github actions, you must navigate to the repository containing the frontend and backend code contained [here](https://github.com/LaughingPenguin/mymusiclist). From here, navigate to the actions tab where you can see our workflow runs. Here is a screenshot of one of our workflow runs:
+
+<img width="1396" alt="Screen Shot 2023-12-07 at 11 10 52 PM" src="https://github.com/ryan-kobayashi/hw5UnitTesting/assets/131481979/df2bb914-d147-479f-9680-a10b83ee0c67">
 
 ## Problem 6
 Recently, interest in chat bots such as ChatGPT or Bard and generative AI used to create images and code have exploded in popularity. This interest has made its way into tools for developers, such as Postman, which can aid engineers in writing code more efficiently.
